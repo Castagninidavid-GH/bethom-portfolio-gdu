@@ -1,49 +1,50 @@
 
-# Challenge Séquence 3 - GDU
+# BeThom — Portfolio de Thomas
 
-## Présentation
-Landing page responsive réalisée dans le cadre de la
-formation Product Builder No Code de GDU.
+## Challenge GDU — Séquence 4
 
-## Objectifs
-- Structurer une page HTML sémantique.
-- Utiliser Flexbox et CSS Grid.
-- Créer une interface responsive.
-- Respecter une hiérarchie visuelle cohérente.
+Site vitrine responsive réalisé pour Thomas,
+graphiste freelance spécialisé en identité visuelle,
+UI design et illustration.
 
-## Sections du site
-- Header et navigation
-- Hero avec bouton CTA
-- Services : 3 cartes
-- Portfolio : 3 projets
-- Contact : formulaire de démonstration
-- Footer
+## Technologies utilisées
 
-## Technologies
 - HTML5
 - CSS3
-- Flexbox
-- CSS Grid
-- Media Queries
-- Visual Studio Code
-- Live Server
+- Flexbox et CSS Grid
+- Police Heebo
+- Responsive Design
 
-## Responsive Design
-- Desktop : 3 colonnes
-- Tablette : 2 colonnes
-- Mobile : 1 colonne
+## Sections du site
 
-Breakpoints : 900px et 600px.
+- Accueil et présentation de Thomas
+- Articles récents
+- Travaux en vedette
+- Contact
 
-## Lancer le projet
-1. Ouvrir le dossier dans VS Code.
-2. Ouvrir index.html.
-3. Lancer Live Server.
-4. Visualiser le site dans le navigateur.
+## Installation
 
-## Remarque
-Le formulaire de contact est une démonstration.
-L'envoi de messages n'est pas encore connecté.
+1. Télécharger le projet.
+2. Ouvrir le dossier dans VS Code.
+3. Lancer index.html avec Live Server.
 
-## Formation
-GDU - Product Builder No Code
+## Qualité et accessibilité
+
+- HTML validé par le W3C
+- CSS validé par le W3C
+- Balises SEO ajoutées
+- Images avec attributs alt
+- Formulaire avec labels
+- Navigation responsive
+
+## Points à finaliser
+
+- Le CV actuel est un document de démonstration.
+- Le formulaire ne transmet pas encore de messages.
+- Les liens vers les réseaux sociaux sont à compléter.
+- L'hébergement public reste à réaliser.
+
+## Maquette
+
+Figma — Portfolio Thomas, challenge GDU.
+
